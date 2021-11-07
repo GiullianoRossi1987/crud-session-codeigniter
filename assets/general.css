@@ -1,0 +1,16 @@
+.center-title{
+    /* text-align: center; */
+    margin-left: auto;
+    margin-right: auto;
+}
+.main-bar{
+    background-color: #3537eb;
+}
+
+.hwarning{
+    visibility: hidden !important;
+}
+
+.warning{
+    color: red;
+}
